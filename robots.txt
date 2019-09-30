@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://roocheefe.mu-lib.org/sitemap.xml
